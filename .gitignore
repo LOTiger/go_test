@@ -1,2 +1,5 @@
 /bin
-/src
+/src/github.com
+/src/honnef.co
+
+.gitignore
